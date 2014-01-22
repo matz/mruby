@@ -1,8 +1,8 @@
-* What's mRuby
+# What's mRuby
 
 mRuby is the ...
 
-* Features of mRuby
+# Features of mRuby
 
   + Simple Syntax
   + *Normal* Object-Oriented features(ex. class, method calls)
@@ -17,7 +17,7 @@ mRuby is the ...
     cf. http://redmine.ruby-lang.org/wiki/ruby-19/SupportedPlatforms
 
 
-* How to get mRuby
+# How to get mRuby
 
 The mRuby distribution files can be found in the following site:
 
@@ -34,29 +34,29 @@ command and see the list of branches:
   $ git ...
 
 
-* mRuby home-page
+# mRuby home-page
 
 The URL of the mRuby home-page is:
 
    http://www.mruby.org/
 
 
-* Mailing list
+# Mailing list
 
 There is a mailing list to talk about mRuby.
 To subscribe this list....
 
-* How to compile and install
+# How to compile and install
 
 See the file INSTALL.
 
 
-* Copying
+# Copying
 
 See the file COPYING.
 
 
-* The Author
+# The Author
 
 Feel free to send comments and bug reports to the author.  Here is the 
 author's latest mail address:
